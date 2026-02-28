@@ -65,6 +65,4 @@ Business Impact
 
 
 
-Add badges and deployment sections
 
-Or optimize them specifically for recruiter visibility**
